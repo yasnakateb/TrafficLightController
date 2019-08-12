@@ -1,6 +1,6 @@
 #TOOL INPUT
 SRC =$(wildcard *.v)
-TESTBENCH = TestBenches/Intersection_tb.v
+TESTBENCH = ../TestBenches/Intersection_tb.v
 TBOUTPUT = Intersection_tb.vcd
 
 #TOOLS
