@@ -43,8 +43,8 @@ This project needs [Icarus-Verilog](http://iverilog.icarus.com) and a VCD viewer
 2. Download [Scansion](http://www.logicpoet.com/scansion/) from here.  
 3. Clone the repository.
 4. Change the directory to src.
-3. <code>$make check</code>- compiles the verilog design - good for checking code.
-4. <code>$make simulate</code> - compiles design+TB & simulates the verilog design.
-5. <code>$make display</code> - displays waveforms.
+3. <code>$ make check</code>- compiles the verilog design - good for checking code.
+4. <code>$ make simulate</code> - compiles design+TB & simulates the verilog design.
+5. <code>$ make display</code> - displays waveforms.
 
 ![](ScreenShots/traffic.png)
